@@ -1,0 +1,4 @@
+@EndUserText.label: 'Datos para Tipo de Cambio'
+define service ZC_I_TIPOCAMBIO_02 {
+  expose ZC_I_TIPOCAMBIO_02;
+}
